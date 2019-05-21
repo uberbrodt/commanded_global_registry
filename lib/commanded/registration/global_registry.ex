@@ -1,4 +1,4 @@
-defmodule Commanded.Registration.Global do
+defmodule Commanded.Registration.GlobalRegistry do
   @moduledoc """
   Documentation for Commanded.Registration.Global.
   """
